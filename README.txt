@@ -4,4 +4,4 @@ Hallo Staging!
 
 Änderung auf Master! und Staging Änderung!
 
-neuer Master Conflict 
+new Merge Conflict solved
